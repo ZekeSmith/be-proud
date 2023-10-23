@@ -25,7 +25,7 @@ import org.jetbrains.annotations.Nullable;
 public class PrinterBlock extends BlockWithEntity implements BEE<PrinterBlockEntity> {
 
     public static final DirectionProperty FACING = HorizontalFacingBlock.FACING;
-    private static final HorizontalFacingShape SHAPE = new HorizontalFacingShape(1, 0, 5, 15, 5, 14);
+    private static final HorizontalFacingShape SHAPE = new HorizontalFacingShape(1, 0, 4, 15, 6, 14);
 
     public PrinterBlock(Settings settings) {
         super(settings);
