@@ -25,10 +25,10 @@ public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
     private static final Identifier TEXTURE = BeProud.asIdentifier("textures/gui/printer.png");
 
     private static final Text[] dyeLabels = {
-            Text.translatable("color.minecraft.black").setStyle(Style.EMPTY.withColor(0x555555)),
             Text.translatable("color.minecraft.cyan").setStyle(Style.EMPTY.withColor(0x29D2FF)),
             Text.translatable("color.minecraft.magenta").setStyle(Style.EMPTY.withColor(0xFF44FE)),
-            Text.translatable("color.minecraft.yellow").setStyle(Style.EMPTY.withColor(0xFFFF56))
+            Text.translatable("color.minecraft.yellow").setStyle(Style.EMPTY.withColor(0xFFFF56)),
+            Text.translatable("color.minecraft.black").setStyle(Style.EMPTY.withColor(0x555555))
     };
 
     private boolean canCraft, isDragging;

@@ -4,10 +4,10 @@
     "item": "beproud:blank_flag"
   },
   "dyes": {
-    "black": 12,
     "cyan": 12,
     "magenta": 6,
-    "yellow": 4
+    "yellow": 4,
+    "black": 12
   },
   "result": {
     "item": "beproud:polyamory_flag"

@@ -4,10 +4,10 @@
     "item": "beproud:blank_flag"
   },
   "dyes": {
-    "black": 10,
     "cyan": 20,
     "magenta": 10,
-    "yellow": 10
+    "yellow": 10,
+    "black": 10
   },
   "result": {
     "item": "beproud:progress_flag"

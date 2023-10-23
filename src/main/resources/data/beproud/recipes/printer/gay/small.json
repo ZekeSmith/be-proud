@@ -4,10 +4,10 @@
     "item": "beproud:small_blank_flag"
   },
   "dyes": {
-    "black": 2,
     "cyan": 8,
     "magenta": 4,
-    "yellow": 3
+    "yellow": 3,
+    "black": 2
   },
   "result": {
     "item": "beproud:small_gay_flag"

@@ -9,10 +9,10 @@ import net.minecraft.item.Items;
 public class DyeTooltipComponent implements TooltipComponent {
 
     private static final ItemStack[] stacks = new ItemStack[]{
-            new ItemStack(Items.BLACK_DYE),
             new ItemStack(Items.CYAN_DYE),
             new ItemStack(Items.MAGENTA_DYE),
-            new ItemStack(Items.YELLOW_DYE)
+            new ItemStack(Items.YELLOW_DYE),
+            new ItemStack(Items.BLACK_DYE)
     };
 
     public final int[] dyes;

@@ -4,10 +4,10 @@
     "item": "beproud:blank_flag"
   },
   "dyes": {
-    "black": 8,
     "cyan": 8,
     "magenta": 0,
-    "yellow": 0
+    "yellow": 0,
+    "black": 8
   },
   "result": {
     "item": "beproud:demiboy_flag"

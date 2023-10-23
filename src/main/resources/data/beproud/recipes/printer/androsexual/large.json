@@ -4,10 +4,10 @@
     "item": "beproud:large_blank_flag"
   },
   "dyes": {
-    "black": 6,
     "cyan": 12,
     "magenta": 21,
-    "yellow": 0
+    "yellow": 0,
+    "black": 6
   },
   "result": {
     "item": "beproud:large_androsexual_flag"

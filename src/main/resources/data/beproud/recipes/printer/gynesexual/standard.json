@@ -4,10 +4,10 @@
     "item": "beproud:blank_flag"
   },
   "dyes": {
-    "black": 4,
     "cyan": 6,
     "magenta": 8,
-    "yellow": 2
+    "yellow": 2,
+    "black": 4
   },
   "result": {
     "item": "beproud:gynesexual_flag"

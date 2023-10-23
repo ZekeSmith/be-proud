@@ -4,10 +4,10 @@
     "item": "beproud:large_blank_flag"
   },
   "dyes": {
-    "black": 9,
     "cyan": 9,
     "magenta": 9,
-    "yellow": 3
+    "yellow": 3,
+    "black": 9
   },
   "result": {
     "item": "beproud:large_genderfluid_flag"

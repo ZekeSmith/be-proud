@@ -4,10 +4,10 @@
     "item": "beproud:small_blank_flag"
   },
   "dyes": {
-    "black": 6,
     "cyan": 6,
     "magenta": 3,
-    "yellow": 2
+    "yellow": 2,
+    "black": 6
   },
   "result": {
     "item": "beproud:small_polyamory_flag"
